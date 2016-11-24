@@ -2,7 +2,7 @@
   "name": "hello-express",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "exemplo-express-knex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.14.0",
     "knex": "^0.12.6",
+    "nodemon": "^1.11.0",
     "sqlite3": "^3.1.8"
   }
 }
